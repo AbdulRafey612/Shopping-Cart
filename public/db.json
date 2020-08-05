@@ -1,0 +1,21 @@
+{
+	"products" : [
+		{
+		 "id":1,
+		 "title":"Night",
+		 "company":"Patek Phillip",
+		 "description": "",
+		 "thumbnail":"",
+		 "price":999	
+		 },
+		 {
+		 "id":2,
+		 "title":"Day",
+		 "company":"Rado",
+		 "description": "Awesome Phone",
+		 "thumbnail":"",
+		 "price":1099	
+		 }
+
+	]
+}

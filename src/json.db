@@ -1,0 +1,19 @@
+{
+	products : [
+		{
+		 id:1,
+		 title:"Iphone",
+		 company:"Apple",
+		 description: "",
+		 price:999	
+		 },
+		 {
+		 id:2,
+		 title:"Note 9",
+		 company:"Samsung Galaxy",
+		 description: "Awesome Phone",
+		 price:1099	
+		 }
+
+	]
+}
